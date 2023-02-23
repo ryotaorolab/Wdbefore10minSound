@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "882c4333a88f1d7f3650f76a750e82a0",
-"index.html": "5f602c664acba0dbe2a9c619a1d8db6f",
-"/": "5f602c664acba0dbe2a9c619a1d8db6f",
-"main.dart.js": "72aa4e226c391008b47064a2c2402734",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"index.html": "b4ad7f176246f3a09319d33b4da05d80",
+"/": "7b935b8220ebeb9242ed2c099c56ecad",
+"main.dart.js": "fabebfbbbf9f6110710729c27b310bb9",
+"TimeleftWeb/index.html": "7b935b8220ebeb9242ed2c099c56ecad",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -24,11 +24,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/images/litaimg.png": "7fbad5b3422e1f9e308445138319ec6e",
 "assets/assets/audio/chimeaudio.mp3": "32dc33b26fb82da25205555abde20df7",
-"assets/assets/audio/syainingustar.mp3": "b5ee7e58cbf8ef7fe44c12f6f280c0b4",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/audio/syainingustar.mp3": "b5ee7e58cbf8ef7fe44c12f6f280c0b4"
 };
 
 // The application shell files that are downloaded before a service worker can
