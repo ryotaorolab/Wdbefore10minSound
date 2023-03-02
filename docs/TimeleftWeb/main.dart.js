@@ -55686,7 +55686,7 @@ $0(){var s,r=A.anj($.a5F.ag()),q=r.a.gf5()*3600,p=A.dX(A.mD("mm").fP(r),null)*60
 A.iF(A.dX(A.mD("mm").fP(r),null))
 s=this.a
 if(s.z==="\u5e73\u65e5\u958b\u8b1b"){s.iU(q,p,57e3,62400)
-s.iU(q,p,63600,69600)
+s.iU(q,p,63600,69e3)
 s.iU(q,p,70200,75600)}if(s.z==="\u571f\u65e5\u958b\u8b1b"){A.iF(B.f.j(36e3)+" "+B.f.j(41400))
 s.iU(q,p,36e3,41400)
 s.iU(q,p,42600,48e3)
